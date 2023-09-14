@@ -39,10 +39,11 @@ def draw_points(X, Y, width,height, file_name):
         df = pd.DataFrame(dict(x=X, y=Y))
         print(df.head())
         lm =sns.scatterplot(data=df, x="x", y="y")
-        lm.set(xlim=(0, width))
-        lm.set(ylim=(0, height))
+        #lm.set(xlim=(0, width))
+        #lm.set(ylim=(0, height))
         #plt.show()
-        plt.savefig(file_name)     
+        plt.savefig(file_name)
+        plt.clf()     
         """
 if __name__ == "__main__":
     tips = sns.load_dataset("tips")

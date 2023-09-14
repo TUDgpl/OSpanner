@@ -10,8 +10,8 @@ import numpy as np
 import branch_gen
 
 nt_data_path = 'D:/GIT/OSpanner/instances'
-#instance_sizes = [2,4,8,16]
-instance_sizes = [2]
+instance_sizes = [2,4,8,16]
+#instance_sizes = [2]
 W = 1000
 H = 1000
 instance_number = 2
