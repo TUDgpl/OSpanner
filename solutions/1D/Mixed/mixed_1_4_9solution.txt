@@ -1,0 +1,20 @@
+c This is a mixed distributed  1-D DIMACS file 
+c width height point_number
+p 1000 1000 4
+10001 0
+20002 0
+30004 0
+40008 0
+d 30007/20006
+0: 
+in: 2 3 
+out: 
+1: 
+in: 
+out: 
+2: 
+in: 
+out: 0 
+3: 
+in: 
+out: 0 

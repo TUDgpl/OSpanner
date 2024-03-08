@@ -1,0 +1,54 @@
+\documentclass[tikz]{standalone}
+
+\usepackage{tikz}
+\begin{document}
+\begin{tikzpicture}[every node/.append style={draw, circle}]
+\node[minimum size=1mm] at (0.363636,0) (0) {} ;
+\node[minimum size=1mm] at (2.58182,0) (1) {} ;
+\node[minimum size=1mm] at (2.65455,0) (2) {} ;
+\node[minimum size=1mm] at (3.2,0) (3) {} ;
+\node[minimum size=1mm] at (4.21818,0) (4) {} ;
+\node[minimum size=1mm] at (6.36364,0) (5) {} ;
+\node[minimum size=1mm] at (7.01818,0) (6) {} ;
+\node[minimum size=1mm] at (10.1091,0) (7) {} ;
+\node[minimum size=1mm] at (11.4545,0) (8) {} ;
+\node[minimum size=1mm] at (13.0909,0) (9) {} ;
+\node[minimum size=1mm] at (14.4364,0) (10) {} ;
+\node[minimum size=1mm] at (17.2,0) (11) {} ;
+\node[minimum size=1mm] at (17.7091,0) (12) {} ;
+\node[minimum size=1mm] at (19.5636,0) (13) {} ;
+\node[minimum size=1mm] at (20.0727,0) (14) {} ;
+\node[minimum size=1mm] at (20.3636,0) (15) {} ;
+\draw (7) edge[bend right] (3);
+\draw (8) edge[bend right] (3);
+\draw (7) edge[bend right] (5);
+\draw (15) edge[bend right] (8);
+\draw (15) edge[bend right] (9);
+\draw (15) edge[bend right] (11);
+\draw (15) edge[bend right] (13);
+\draw (4) edge[bend left] (0);
+\draw (6) edge[bend left] (0);
+\draw (3) edge[bend left] (1);
+\draw (4) edge[bend left] (1);
+\draw (6) edge[bend left] (4);
+\draw (10) edge[bend left] (6);
+\draw (10) edge[bend left] (7);
+\draw (14) edge[bend left] (10);
+\draw (14) edge[bend left] (11);
+\draw (0) edge (1);
+\draw (1) edge (2);
+\draw (2) edge (3);
+\draw (3) edge (4);
+\draw (4) edge (5);
+\draw (5) edge (6);
+\draw (6) edge (7);
+\draw (7) edge (8);
+\draw (8) edge (9);
+\draw (9) edge (10);
+\draw (10) edge (11);
+\draw (11) edge (12);
+\draw (12) edge (13);
+\draw (13) edge (14);
+\draw (14) edge (15);
+  \end{tikzpicture}
+  \end{document}

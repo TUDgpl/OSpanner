@@ -1,0 +1,31 @@
+\documentclass{article}
+\usepackage{tikz}
+\begin{document}
+\begin{tikzpicture}[every node/.append style={draw, circle}, rotate = 90]
+\node[] at (5.4028,0) (0) {} ;
+\node[] at (10.0778,0) (1) {} ;
+\node[] at (15.6765,0) (2) {} ;
+\node[] at (17.6361,0) (3) {} ;
+\node[] at (19.1757,0) (4) {} ;
+\node[] at (19.8196,0) (5) {} ;
+\node[] at (21.3872,0) (6) {} ;
+\node[] at (23.4028,0) (7) {} ;
+\draw (2) edge[bend right] (0);
+\draw (3) edge[bend right] (1);
+\draw (5) edge[bend right] (2);
+\draw (5) edge[bend right] (3);
+\draw (6) edge[bend right] (3);
+\draw (6) edge[bend right] (4);
+\draw (7) edge[bend right] (0);
+\draw (7) edge[bend right] (1);
+\draw (7) edge[bend right] (3);
+\draw (7) edge[bend right] (5);
+\draw (0) edge (1);
+\draw (1) edge (2);
+\draw (2) edge (3);
+\draw (3) edge (4);
+\draw (4) edge (5);
+\draw (5) edge (6);
+\draw (6) edge (7);
+  \end{tikzpicture}
+  \end{document}

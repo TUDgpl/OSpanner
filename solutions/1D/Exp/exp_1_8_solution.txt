@@ -1,0 +1,25 @@
+d 1.88421
+0: 
+in: 2 3 4 5 6 7 
+out: 
+1: 
+in: 
+out: 
+2: 
+in: 
+out: 0 
+3: 
+in: 
+out: 0 
+4: 
+in: 
+out: 0 
+5: 
+in: 
+out: 0 
+6: 
+in: 
+out: 0 
+7: 
+in: 
+out: 0 

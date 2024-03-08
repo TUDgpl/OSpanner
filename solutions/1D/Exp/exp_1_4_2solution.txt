@@ -1,0 +1,20 @@
+c This is a exp distributed  1-D DIMACS file 
+c width height point_number
+p 1000 1000 4
+1.0 0
+2.3803 0
+4.2855 0
+6.9153 0
+d 59153/45350
+0: 
+in: 2 3 
+out: 
+1: 
+in: 
+out: 
+2: 
+in: 
+out: 0 
+3: 
+in: 
+out: 0 

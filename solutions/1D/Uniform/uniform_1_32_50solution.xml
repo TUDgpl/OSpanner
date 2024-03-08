@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<!DOCTYPE ipe SYSTEM "ipe.dtd">
+<ipe version="70218" creator="Ipe 7.2.24">
+<info created="D:20221020151441" modified="D:20221020151441"/>
+<ipestyle name="basic">
+<symbol name="mark/disk(sx)" transformations="translations">
+<path fill="sym-stroke">
+0.6 0 0 0.6 0 0 e
+</path>
+</symbol>
+<anglesize name="22.5 deg" value="22.5"/>
+<anglesize name="30 deg" value="30"/>
+<anglesize name="45 deg" value="45"/>
+<anglesize name="60 deg" value="60"/>
+<anglesize name="90 deg" value="90"/>
+<arrowsize name="large" value="10"/>
+<arrowsize name="small" value="5"/>
+<arrowsize name="tiny" value="3"/>
+<color name="blue" value="0 0 1"/>
+<color name="gray" value="0.745"/>
+<color name="green" value="0 1 0"/>
+<color name="red" value="1 0 0"/>
+<color name="yellow" value="1 1 0"/>
+<pen name="normal" value="1"/>
+<pen name="fat" value="1.2"/>
+<pen name="heavier" value="0.8"/>
+<pen name="ultrafat" value="2"/>
+<gridsize name="16 pts (~6 mm)" value="16"/>
+<gridsize name="32 pts (~12 mm)" value="32"/>
+<gridsize name="4 pts" value="4"/>
+<gridsize name="8 pts (~3 mm)" value="8"/>
+<opacity name="10%" value="0.1"/>
+<opacity name="25%" value="0.25"/>
+<opacity name="50%" value="0.5"/>
+<opacity name="75%" value="0.75"/>
+<symbolsize name="large" value="5"/>
+<symbolsize name="small" value="2"/>
+<symbolsize name="tiny" value="1.1"/>
+<textsize name="huge" value="\huge"/>
+<textsize name="large" value="\large"/>
+<textsize name="small" value="\small"/>
+<textsize name="tiny" value="	iny"/>
+<tiling name="falling" angle="-60" step="4" width="1"/>
+<tiling name="rising" angle="30" step="4" width="1"/>
+</ipestyle>
+<page>
+<layer name="edges"/>
+<layer name="points"/>
+<view layers="edges points" active="points"/>
+<path layer="edges" stroke="black" pen="normal">
+16.000000 300 m
+576.000000 300 l
+h
+</path>
+<path layer = "points" stroke = "black">
+70.248234 300 m
+-7.063572 0 0 7.063572 63.184662 300 56.121090 300 a
+</path>
+<path layer = "points" stroke = "black">
+78.159435 300 m
+-3.955600 0 0 3.955600 74.203835 300 70.248234 300 a
+</path>
+<path layer = "points" stroke = "black">
+103.588295 300 m
+-6.215943 0 0 6.215943 97.372351 300 91.156408 300 a
+</path>
+<path layer = "points" stroke = "black">
+139.753784 300 m
+-18.082745 0 0 18.082745 121.671039 300 103.588295 300 a
+</path>
+<path layer = "points" stroke = "black">
+145.969728 300 m
+-21.190716 0 0 21.190716 124.779011 300 103.588295 300 a
+</path>
+<path layer = "points" stroke = "black">
+173.658930 300 m
+-7.911201 0 0 7.911201 165.747730 300 157.836529 300 a
+</path>
+<path layer = "points" stroke = "black">
+179.874874 300 m
+-11.019173 0 0 11.019173 168.855701 300 157.836529 300 a
+</path>
+<path layer = "points" stroke = "black">
+244.859738 300 m
+-17.800202 0 0 17.800202 227.059536 300 209.259334 300 a
+</path>
+<path layer = "points" stroke = "black">
+287.806256 300 m
+-21.473259 0 0 21.473259 266.332997 300 244.859738 300 a
+</path>
+<path layer = "points" stroke = "black">
+405.344097 300 m
+-35.882947 0 0 35.882947 369.461150 300 333.578204 300 a
+</path>
+<path layer = "points" stroke = "black">
+439.814329 300 m
+-53.118063 0 0 53.118063 386.696266 300 333.578204 300 a
+</path>
+<path layer = "points" stroke = "black">
+502.538850 300 m
+-17.235116 0 0 17.235116 485.303734 300 468.068618 300 a
+</path>
+<path layer = "points" stroke = "black">
+546.050454 300 m
+-21.755802 0 0 21.755802 524.294652 300 502.538850 300 a
+</path>
+<path layer = "points" stroke = "black">
+576.000000 300 m
+-14.974773 0 0 14.974773 561.025227 300 546.050454 300 a
+</path>
+<path layer = "points" stroke = "black">
+76.464178 300 m
+-7.346115 0 0 7.346115 83.810293 300 91.156408 300 a
+</path>
+<path layer = "points" stroke = "black">
+91.156408 300 m
+-0.565086 0 0 0.565086 91.721493 300 92.286579 300 a
+</path>
+<path layer = "points" stroke = "black">
+91.156408 300 m
+-24.298688 0 0 24.298688 115.455096 300 139.753784 300 a
+</path>
+<path layer = "points" stroke = "black">
+92.286579 300 m
+-8.193744 0 0 8.193744 100.480323 300 108.674067 300 a
+</path>
+<path layer = "points" stroke = "black">
+139.753784 300 m
+-11.301715 0 0 11.301715 151.055499 300 162.357215 300 a
+</path>
+<path layer = "points" stroke = "black">
+145.969728 300 m
+-8.193744 0 0 8.193744 154.163471 300 162.357215 300 a
+</path>
+<path layer = "points" stroke = "black">
+173.658930 300 m
+-17.800202 0 0 17.800202 191.459132 300 209.259334 300 a
+</path>
+<path layer = "points" stroke = "black">
+173.658930 300 m
+-25.146317 0 0 25.146317 198.805247 300 223.951564 300 a
+</path>
+<path layer = "points" stroke = "black">
+223.951564 300 m
+-24.016145 0 0 24.016145 247.967709 300 271.983855 300 a
+</path>
+<path layer = "points" stroke = "black">
+271.983855 300 m
+-30.797175 0 0 30.797175 302.781029 300 333.578204 300 a
+</path>
+<path layer = "points" stroke = "black">
+271.983855 300 m
+-42.663976 0 0 42.663976 314.647830 300 357.311806 300 a
+</path>
+<path layer = "points" stroke = "black">
+405.344097 300 m
+-34.752775 0 0 34.752775 440.096872 300 474.849647 300 a
+</path>
+<path layer = "points" stroke = "black">
+439.814329 300 m
+-17.517659 0 0 17.517659 457.331988 300 474.849647 300 a
+</path>
+<path layer = "points" stroke = "black">
+474.849647 300 m
+-27.124117 0 0 27.124117 501.973764 300 529.097881 300 a
+</path>
+<path layer = "points" stroke = "black">
+529.097881 300 m
+-23.451060 0 0 23.451060 552.548940 300 576.000000 300 a
+</path>
+<use layer="points" name="mark/disk(sx)" pos="56.121090 300" size="normal" stroke="black"/><use layer="points" name="mark/disk(sx)" pos="56.686176 300" size="normal" stroke="black"/><use layer="points" name="mark/disk(sx)" pos="70.248234 300" size="normal" stroke="black"/><use layer="points" name="mark/disk(sx)" pos="76.464178 300" size="normal" stroke="black"/><use layer="points" name="mark/disk(sx)" pos="78.159435 300" size="normal" stroke="black"/><use layer="points" name="mark/disk(sx)" pos="91.156408 300" size="normal" stroke="black"/><use layer="points" name="mark/disk(sx)" pos="91.721493 300" size="normal" stroke="black"/><use layer="points" name="mark/disk(sx)" pos="92.286579 300" size="normal" stroke="black"/><use layer="points" name="mark/disk(sx)" pos="103.588295 300" size="normal" stroke="black"/><use layer="points" name="mark/disk(sx)" pos="108.674067 300" size="normal" stroke="black"/><use layer="points" name="mark/disk(sx)" pos="139.753784 300" size="normal" stroke="black"/><use layer="points" name="mark/disk(sx)" pos="145.969728 300" size="normal" stroke="black"/><use layer="points" name="mark/disk(sx)" pos="157.836529 300" size="normal" stroke="black"/><use layer="points" name="mark/disk(sx)" pos="162.357215 300" size="normal" stroke="black"/><use layer="points" name="mark/disk(sx)" pos="173.658930 300" size="normal" stroke="black"/><use layer="points" name="mark/disk(sx)" pos="179.874874 300" size="normal" stroke="black"/><use layer="points" name="mark/disk(sx)" pos="209.259334 300" size="normal" stroke="black"/><use layer="points" name="mark/disk(sx)" pos="223.951564 300" size="normal" stroke="black"/><use layer="points" name="mark/disk(sx)" pos="244.859738 300" size="normal" stroke="black"/><use layer="points" name="mark/disk(sx)" pos="271.983855 300" size="normal" stroke="black"/><use layer="points" name="mark/disk(sx)" pos="287.806256 300" size="normal" stroke="black"/><use layer="points" name="mark/disk(sx)" pos="333.578204 300" size="normal" stroke="black"/><use layer="points" name="mark/disk(sx)" pos="357.311806 300" size="normal" stroke="black"/><use layer="points" name="mark/disk(sx)" pos="405.344097 300" size="normal" stroke="black"/><use layer="points" name="mark/disk(sx)" pos="439.814329 300" size="normal" stroke="black"/><use layer="points" name="mark/disk(sx)" pos="468.068618 300" size="normal" stroke="black"/><use layer="points" name="mark/disk(sx)" pos="474.849647 300" size="normal" stroke="black"/><use layer="points" name="mark/disk(sx)" pos="502.538850 300" size="normal" stroke="black"/><use layer="points" name="mark/disk(sx)" pos="529.097881 300" size="normal" stroke="black"/><use layer="points" name="mark/disk(sx)" pos="546.050454 300" size="normal" stroke="black"/><use layer="points" name="mark/disk(sx)" pos="566.958628 300" size="normal" stroke="black"/><use layer="points" name="mark/disk(sx)" pos="576.000000 300" size="normal" stroke="black"/></page>
+</ipe>

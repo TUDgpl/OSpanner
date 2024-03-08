@@ -1,0 +1,20 @@
+c This is a unit distributed  1-D DIMACS file 
+c width height point_number
+p 1000 1000 8
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+d 4/3
+Page_0: 
+(2, 0)
+(4, 2)
+(6, 4)
+Page_1: 
+(3, 1)
+(5, 3)
+(7, 5)
